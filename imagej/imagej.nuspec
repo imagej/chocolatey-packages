@@ -20,7 +20,7 @@ ImageJ is a public domain Java image processing program inspired by NIH Image fo
     <mailingListUrl>http://imagej.nih.gov/ij/list.html</mailingListUrl>
     <bugTrackerUrl>https://github.com/imagej/imagej1/issues</bugTrackerUrl>
     <projectSourceUrl>https://github.com/imagej/imagej1</projectSourceUrl>
-    <packageSourceUrl>https://github.com/AnthonyMastrean/chocolateypackages/</packageSourceUrl>
+    <packageSourceUrl>https://github.com/imagej/chocolatey-packages</packageSourceUrl>
     <dependencies>
         <dependency id="jre8" />
     </dependencies>
